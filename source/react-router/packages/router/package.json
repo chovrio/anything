@@ -17,7 +17,7 @@
   "sideEffects": false,
   "main": "./dist/router.cjs.js",
   "unpkg": "./dist/router.umd.min.js",
-  "module": "./dist/router.js",
+  "module": "./index.ts",
   "types": "./dist/index.d.ts",
   "files": [
     "dist/",
